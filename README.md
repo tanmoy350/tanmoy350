@@ -46,4 +46,4 @@ Building the practical skills required for entry-level SOC and cybersecurity rol
 
 ### Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/tanmoy-sen-83a496254/)
