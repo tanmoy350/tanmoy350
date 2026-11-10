@@ -36,7 +36,21 @@ Currently developing practical cybersecurity experience through:
 
 ## 📂 Featured Projects
 
-Projects will be added as I build and document them.
+### Network Security Labs
+Hands-on cybersecurity labs focused on network traffic
+analysis, reconnaissance, and security investigation.
+
+- Wireshark packet analysis
+- TCP Three-Way Handshake investigation
+- Nmap network reconnaissance
+
+[Explore Repository](https://github.com/tanmoy350/network-security-labs)
+
+## Currently Building
+
+- DNS traffic analysis
+- Network service discovery labs
+- Python-based SOC automation tools
 
 ## 🎯 Career Goal
 
